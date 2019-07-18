@@ -1,5 +1,4 @@
-﻿using spyclass.Util;
-using System;
+﻿using System;
 using System.Diagnostics;
 
 namespace spyclass
