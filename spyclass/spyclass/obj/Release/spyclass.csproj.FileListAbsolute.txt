@@ -1,0 +1,11 @@
+C:\repositorio\spyclass\spyclass\spyclass\bin\Release\spyclass.exe.config
+C:\repositorio\spyclass\spyclass\spyclass\bin\Release\spyclass.exe
+C:\repositorio\spyclass\spyclass\spyclass\bin\Release\spyclass.pdb
+C:\repositorio\spyclass\spyclass\spyclass\obj\Release\spyclass.csprojAssemblyReference.cache
+C:\repositorio\spyclass\spyclass\spyclass\obj\Release\spyclass.csproj.CoreCompileInputs.cache
+C:\repositorio\spyclass\spyclass\spyclass\obj\Release\spyclass.exe
+C:\repositorio\spyclass\spyclass\spyclass\obj\Release\spyclass.pdb
+C:\repositorio\spyclass\spyclass\spyclass\bin\Release\spyclass.exe.manifest
+C:\repositorio\spyclass\spyclass\spyclass\bin\Release\spyclass.application
+C:\repositorio\spyclass\spyclass\spyclass\obj\Release\spyclass.exe.manifest
+C:\repositorio\spyclass\spyclass\spyclass\obj\Release\spyclass.application

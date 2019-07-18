@@ -37,11 +37,11 @@ namespace spyclass.Util
         {
             try
             {
-                txtWriter.Write("\r\nLog In : ");
-                txtWriter.WriteLine($"{DateTime.Now.ToLongTimeString()} {DateTime.Now.ToLongDateString()}");
-                txtWriter.WriteLine("  :");
-                txtWriter.WriteLine($"  :{logMensagem}");
-                txtWriter.WriteLine("------------------------------------");
+                //txtWriter.WriteLine("\r\nLog In");
+                //txtWriter.Write($"{DateTime.Now.ToLongTimeString()} {DateTime.Now.ToLongDateString()}");
+                //txtWriter.Write("");
+                txtWriter.WriteLine($"{logMensagem}");
+                txtWriter.Write("|");
             }
             catch (Exception ex)
             {
