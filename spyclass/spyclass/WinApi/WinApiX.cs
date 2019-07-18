@@ -1,4 +1,5 @@
-﻿using System;
+﻿using spyclass.Util;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -143,12 +144,17 @@ namespace spyclass.WinApi
 
                 int i = 0;
 
+                Logger.Log(String.Format($"{"Log criado em "} : {DateTime.Now}"), "SpyLog");
+
                 foreach (var item in handlers)
                 {
                     StringBuilder ClassName = new StringBuilder(256);
                     GetClassName(item, ClassName, ClassName.Capacity);
                     
                     Console.WriteLine(ClassName.ToString() + ": " + item + ": " + GetText(item) + ": " + i);
+
+                    Logger.Log(ClassName.ToString() + ": " + item + ": " + GetText(item) + ": " + i);
+
                     i++;
                 }
 
