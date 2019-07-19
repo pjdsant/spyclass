@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace spyclass
+namespace LikeWater.SpyClass
 {
     class Program
     {

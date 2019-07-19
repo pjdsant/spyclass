@@ -2,7 +2,7 @@
 using System.IO;
 using System.Reflection;
 
-namespace spyclass.Util
+namespace LikeWater.SpyClass.Util
 {
     public class Logger
     {

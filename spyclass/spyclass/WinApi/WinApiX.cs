@@ -1,11 +1,11 @@
-﻿using spyclass.Util;
+﻿using LikeWater.SpyClass.Util;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace spyclass.WinApi
+namespace LikeWater.SpyClass.WinApi
 {
     //Develpment Author Paulo Santos 
     //www.likewatercs.com

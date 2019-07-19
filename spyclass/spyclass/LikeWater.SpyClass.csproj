@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{78F4B1D4-37CF-434A-A755-B431C0A51CBA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>spyclass</RootNamespace>
+    <RootNamespace>Likewater.Spyclass</RootNamespace>
     <AssemblyName>spyclass</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>spyclass.Program</StartupObject>
+    <StartupObject>LikeWater.SpyClass.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>0B3EA2B341386601D5EB78A2381CAC8B076A514A</ManifestCertificateThumbprint>

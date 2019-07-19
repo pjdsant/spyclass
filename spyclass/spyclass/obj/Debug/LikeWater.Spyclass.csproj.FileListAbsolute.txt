@@ -1,0 +1,11 @@
+C:\repositorio\spyclass\spyclass\spyclass\obj\Debug\LikeWater.Spyclass.csprojAssemblyReference.cache
+C:\repositorio\spyclass\spyclass\spyclass\obj\Debug\LikeWater.Spyclass.csproj.CoreCompileInputs.cache
+C:\repositorio\spyclass\spyclass\spyclass\bin\Debug\spyclass.exe.config
+C:\repositorio\spyclass\spyclass\spyclass\bin\Debug\spyclass.exe.manifest
+C:\repositorio\spyclass\spyclass\spyclass\bin\Debug\spyclass.application
+C:\repositorio\spyclass\spyclass\spyclass\bin\Debug\spyclass.exe
+C:\repositorio\spyclass\spyclass\spyclass\bin\Debug\spyclass.pdb
+C:\repositorio\spyclass\spyclass\spyclass\obj\Debug\spyclass.exe.manifest
+C:\repositorio\spyclass\spyclass\spyclass\obj\Debug\spyclass.application
+C:\repositorio\spyclass\spyclass\spyclass\obj\Debug\spyclass.exe
+C:\repositorio\spyclass\spyclass\spyclass\obj\Debug\spyclass.pdb
