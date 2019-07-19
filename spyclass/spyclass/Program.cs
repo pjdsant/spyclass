@@ -39,7 +39,7 @@ namespace spyclass
                 }
                 else
                 {
-                    Console.WriteLine("Tela nao encontrada, por favor informe o Titulo da Tela da sua Aplicacao Windows a se Processada.");
+                    Console.WriteLine("Tela nao encontrada, por favor informe o Titulo da Tela da sua Aplicacao Windows a ser Processada.");
                 }
             }
             catch (Exception ex)
